@@ -14,7 +14,7 @@ The first line contains one integer **T** (1<=T<=10^5) indicating the number of 
 
 Each line contains a test case consisting of 1 integer **n** the length of the stairway.
 
-1<n<=10^7
+1<=n<=10^7
 
 ## Output :
 Print the different number of paths a person can take to reach the end of the stairway.
