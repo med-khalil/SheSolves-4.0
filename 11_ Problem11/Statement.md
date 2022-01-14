@@ -1,48 +1,42 @@
-# Problem A : insert Title
+# Problem K : Stairs game
 
 ## Statement:
 
+Mahmoud and Hani love to play a game called stairs at the mall that consists of going up a stairway composed of **n** steps, starting at the first step and going as fast as they can to determine who reaches the end faster. The **n** th step is considered the end of the stairway . However, after noticing their game, the mall introduced a new rule which said that you can't jump more than one step at a time. In other words, when standing on the ith step you can only go to the **(i+1)**th or the **(i+2)**th step.
+Naturally, the kids were upset about this rule because it made their game not fun anymore. However the security guard Omar told them that they can still have fun playing their game with this new rule as there are still many different ways they can go up the stairs.
+Your Task is to determine the number of different paths a person can take to reach the end of the stairway when following the rule.
 
 
-// You will answer **T** distinct test cases each with a different values of ***** and *****.
+// You will answer **T** distinct test cases each with a different value of **n** .
 
 ## Input :
 // The first line contains one integer **T** (1<=T<=10^5) indicating the number of test cases. Then T test cases follow.
 
-Each test case consists of 2 integer **n** and then **b** separated by a space.
+Each line contains a test case consisting of 1 integer **n**.
 
 1<n<=10^7
-1<=b<=10^7
 
 ## Output :
-Print ...
+Print the different number of paths a person can take to reach the end of the stairway.
 
 ## Example:
 Input 1 :  
 
 ```
-2 
-4 4  
-6 10   
+4
+1
+2
+4 
+6   
 ```
 
 Output 1:  
 
 ```
 0  
-4    
-```
-
-Input 2:  
-
-```
 1
-10 5  
+3
+8
 ```
 
-Output 2:  
-
-```
-5  
-```
 
