@@ -60,5 +60,5 @@ Each problem setter should include the following files in his problem folder for
 | 8    | A special type of addition          | Ala        |                   |             |                                |                |
 | 9    | different words same representation | Aycha      |                   |             |                                |                |
 | 10   | Frequency Array (Hard Version)      | Azer       |                   |             |                                |                |
-| 11   | Fibonacci                           | Mahmoud    |                   |             |                                |                |
+| 11   | Fibonacci                           | Mahmoud    |         X         |      X      |                                |                |
 | 12   | bouncing mushrooms                  | Yessine    |                   |             |                                |                |
