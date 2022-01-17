@@ -11,7 +11,7 @@ In this level, Mario comes across a platform filled with weird monsters called G
 * When two Goombas bump into each other, they switch directions immediately.
 * A Goomba dies when he exceeds one of the platform's limits.
 
-The platform is divided into squares and represented by a string **s[1..n]** with each character representing a square .The string can only contain these 3 characters : 
+The platform is divided into squares and represented by a string **s[1..n]** with each character representing a square. The string can only contain these 3 characters : 
 
 * **'>'** : The square is occupied by a Goomba going right 
 * **'<'**  : The square is occupied by a Goomba going left 
@@ -21,9 +21,9 @@ Yessine is curious to know how many seconds it will take for the platform to be 
 
 ## Input :
 
-The first line contains one integer **T** (1<=T<=10^4) indicating the number of test cases.
-The next **T** lines contain the description of the test cases, two lines per a test case.
-In the first line you are given one integer **n**  (1 <= n <= 10^5) : the length of the string.
+The first line contains one integer **T** (1<=T<=10^4) indicating the number of test cases. \
+The next **T** lines contain the description of the test cases, two lines per a test case. \
+In the first line you are given one integer **n**  (1 <= n <= 10^5) : the length of the string. \
 The second line contains the string **s** consisting of **n** characters.
 
 It is guaranteed that the sum of **n** over all test cases doesn't exceed 10^5
