@@ -31,6 +31,7 @@ It is guaranteed that the sum of **n** over all test cases doesn't exceed 10^5
 ## Output :
 
 For each test case output one integer — How many seconds it will take for the platform to be empty.
+
 It can be proven that the platform will be empty after a certain number of seconds.
 
 ## Example:
