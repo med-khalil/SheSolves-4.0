@@ -1,48 +1,52 @@
-# Problem A : insert Title
+# Problem A : Lock Combination
 
-## Statement:
+## Statement: 
+One day, Naima and Eya have come up with an idea that consists of building a combination lock that will keep their most treasured savings safe.Each time they want to store something inside the safe, they have to open the lock.
 
+A pirate named Anas was trying to steal their treasure, and he coincidentally overheard the secret code that unlocks the combination lock.
 
+The combination lock is represented by n rotating disks with digits from 0 to 9 written on them. To open the lock, Anas has to turn some disks so that the combination of digits on the disks forms the secret combination.
+ 
+In one move, he can rotate one disk by one digit either forwards or backwards. In particular, in one move he can go from digit 0 to digit 9 and vice versa.
 
-// You will answer **T** distinct test cases each with a different values of ***** and *****.
+Since Anas is pressed for time and afraid to get caught he want to open the lock using the least amount of moves possible.
 
+Can you figure out the minimum number of moves that he need to unlock the safe?
 ## Input :
-// The first line contains one integer **T** (1<=T<=10^5) indicating the number of test cases. Then T test cases follow.
+The first line contains a single integer n (1 ≤ n ≤ 1000) —- the number of disks on the combination lock.
+The second line contains a string of n digits — the original state of the disks.
+The third line contains a string of n digits — the secret combination that opens the lock.
 
-Each test case consists of 2 integer **n** and then **b** separated by a space.
-
-1<n<=10^7
-1<=b<=10^7
 
 ## Output :
-Print ...
+Print a single integer the minimum number of moves Anas needs to open the lock.
 
 ## Example:
 Input 1 :  
 
 ```
-2 
-4 4  
-6 10   
+5
+82195
+64723   
 ```
 
 Output 1:  
 
 ```
-0  
-4    
+13   
 ```
 
 Input 2:  
 
 ```
-1
-10 5  
+2
+12
+13
 ```
 
 Output 2:  
 
 ```
-5  
+1  
 ```
 
