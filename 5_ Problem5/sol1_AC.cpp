@@ -1,6 +1,4 @@
 #include <bits/stdc++.h>
-#include <unordered_set>
-#define PI 3.14159265359
 #define lp(i, n) for (int i = 0; i < n; i++)
 #define pb push_back
 #define mk make_pair
