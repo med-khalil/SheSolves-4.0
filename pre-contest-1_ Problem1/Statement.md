@@ -12,7 +12,8 @@ When a player passes the last level, the game ends and Fares announces the winne
 Unfortunately, Fares forgot the winner, but he has the results of all rounds and the rules, so help him to announce the winner.
 
 You are given the number of levels (n) and an array (a) of n element where ai represent the score needed to pass the ith level.
-3
+
+so if n is 3 and the array is
 2 3 4
 that means that the winner must win 2 , then 3 then 4 consucutive wins
 

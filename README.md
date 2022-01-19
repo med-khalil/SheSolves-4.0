@@ -43,7 +43,7 @@ Each problem setter should include the following files in his problem folder for
 
 |      | Problem            | author | Problem statement | AC solution | TLE solution | input / output |
 | ---- | ------------------ | ------ | ----------------- | ----------- | ------------ | -------------- |
-| 1    | Who is the winner? | Fares  |                   |             |              |                |
+| 1    | Who is the winner? | Fares  |         X         |             |              |                |
 | 2    | middle number      | Khalil |                   |             |              |                |
 
 #### Official contest problems:
