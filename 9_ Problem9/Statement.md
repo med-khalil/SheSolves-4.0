@@ -49,6 +49,7 @@ Output 2:
 
 In the first test, we started with S=” BAC FGY BAC PTKL” then we splitted it into 3 and replaced each letter with its alphabet position which gave us : 213 6725 213 16201112
 We noticed that we have the same number twice but from the same word, so we got 0 points
+
 In the second test, we started with S=” BAC FGY UC PTKL BAC MLE BM” then we splitted it into 5 and replaced each letter with its alphabet position which gave us : 213 6725 213 16201112 213 13125 213
 We noticed that we have the same number 4 times but we only have to different origins, so we have 4 points.
 
