@@ -54,11 +54,11 @@ Each problem setter should include the following files in his problem folder for
 | 2    | cube's volume                       | Razi       |                   |             |                                |                |
 | 3    | divide by 18                        | Gharsallah |                   |             |                                |                |
 | 4    | 2*N grid path finding               | Mahfoudhi  |                   |             |                                |                |
-| 5    | Frequency Array (Easy Version)      | Azer       |                   |             |                                |                |
+| 5    | Frequency Array (Easy Version)      | Azer       |         X         |     X       |                                |                |
 | 6    | valentine's day gifts               | Bechir     |                   |             |                                |                |
 | 7    | lock combination                    | Med Ali    |         X         |      X      |                                |                |
 | 8    | A special type of addition          | Ala        |                   |             |                                |                |
 | 9    | different words same representation | Aycha      |                   |             |                                |                |
-| 10   | Frequency Array (Hard Version)      | Azer       |                   |             |                                |                |
+| 10   | Frequency Array (Hard Version)      | Azer       |         X         |      X      |                                |                |
 | 11   | Fibonacci                           | Mahmoud    |         X         |      X      |                                |                |
 | 12   | bouncing mushrooms                  | Yessine    |                   |             |                                |                |
