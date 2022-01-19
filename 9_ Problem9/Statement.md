@@ -1,4 +1,4 @@
-# Problem A : insert Title
+# Problem A : AYCHA'S SPECIAL GAME
 
 ## Statement:
 
