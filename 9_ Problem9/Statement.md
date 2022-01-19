@@ -4,45 +4,51 @@
 
 
 
-// You will answer **T** distinct test cases each with a different values of ***** and *****.
+You are given a string S. You need to split it into words. In each word, you need to replace each letter with its alphabet position.
+You would win two points if you got the same number but from different origin
+
+
 
 ## Input :
-// The first line contains one integer **T** (1<=T<=10^5) indicating the number of test cases. Then T test cases follow.
+On the first line, you’ll read the number of tests T then you’ll proceed to read T tests (All tests are independent of one another)
+For each test, you’ll read a string S that represents a sentence consisting of words separated with only one space.
 
-Each test case consists of 2 integer **n** and then **b** separated by a space.
 
-1<n<=10^7
-1<=b<=10^7
 
 ## Output :
-Print ...
+For each test, the output is a single line that contains the final value of the score M.
 
 ## Example:
 Input 1 :  
 
 ```
-2 
-4 4  
-6 10   
+BAC FGY BAC PTKL   
 ```
 
 Output 1:  
 
 ```
-0  
-4    
+0    
 ```
 
 Input 2:  
 
 ```
-1
-10 5  
+BAC FGY UC PTKL BAC MLE BM  
 ```
 
 Output 2:  
 
 ```
-5  
+4  
 ```
+
+
+
+## Note :
+
+In the first test, we started with S=” BAC FGY BAC PTKL” then we splitted it into 3 and replaced each letter with its alphabet position which gave us : 213 6725 213 16201112
+We noticed that we have the same number twice but from the same word, so we got 0 points
+In the second test, we started with S=” BAC FGY UC PTKL BAC MLE BM” then we splitted it into 5 and replaced each letter with its alphabet position which gave us : 213 6725 213 16201112 213 13125 213
+We noticed that we have the same number 4 times but we only have to different origins, so we have 4 points.
 
