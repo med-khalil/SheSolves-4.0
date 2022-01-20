@@ -61,4 +61,4 @@ Each problem setter should include the following files in his problem folder for
 | 9    | different words same representation | Aycha      |                   |             |                                |                |
 | 10   | Frequency Array (Hard Version)      | Azer       |         X         |      X      |                                |                |
 | 11   | Fibonacci                           | Mahmoud    |         X         |      X      |                                |                |
-| 12   | bouncing mushrooms                  | Yessine    |                   |             |                                |                |
+| 12   | Super Mario                         | Yessine    |         X         |      X      |                                |                |
