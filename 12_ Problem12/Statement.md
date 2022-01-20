@@ -1,4 +1,4 @@
-# Problem L : Bouncing mushroom
+# Problem L : Super Mario
 
 ## Statement:
 
