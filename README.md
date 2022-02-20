@@ -51,7 +51,7 @@ Each problem setter should include the following files in his problem folder for
 |      | Problem                             | author     | Problem statement | AC solution | TLE solution (if there is any) | input / output |
 | ---- | ----------------------------------- | ---------- | ----------------- | ----------- | ------------------------------ | -------------- |
 | 1    | image classification                | Razi       |                   |             |                                |                |
-| 2    | cube's volume                       | Razi       |                   |             |                                |                |
+| 2    | cube's volume                       | Razi       |         X         |     X       |                                |                |
 | 3    | divide by 18                        | Gharsallah |                   |             |                                |                |
 | 4    | 2*N grid path finding               | Mahfoudhi  |         X         |      X      |                                |                |
 | 5    | Frequency Array (Easy Version)      | Azer       |         X         |     X       |                                |                |
