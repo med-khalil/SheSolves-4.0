@@ -1,48 +1,34 @@
-# Problem A : insert Title
+# Problem A : Rubik's cube
 
 ## Statement:
-
-
-
-// You will answer **T** distinct test cases each with a different values of ***** and *****.
+Rania has a lot of Rubik's cubes at home, whose side is one unit.
+One day she decided to go on vacation, she will bring with her a suitcase that is shaped like a cube whose side is n unit(s).
+She is so obsessed with Rubik's cubes that she decided to fill her suitcase with them.
+Rania wonders how many Rubik's cubes she can fit in her suitcase.
 
 ## Input :
-// The first line contains one integer **T** (1<=T<=10^5) indicating the number of test cases. Then T test cases follow.
+The first line contains a single integer **T** (1≤T≤100) — the number of test cases. Then the test cases follow. Each test case consists of one line.
 
-Each test case consists of 2 integer **n** and then **b** separated by a space.
-
-1<n<=10^7
-1<=b<=10^7
+The first line contains a single integer **n** (1≤n≤100) — the length of a side of Rania's suitcase.
 
 ## Output :
-Print ...
+For each test case, output a single integer, the number of Rubik's cubes Rania can put in her suitcase.       
 
 ## Example:
-Input 1 :  
+Input :  
 
 ```
-2 
-4 4  
-6 10   
+3
+1
+2
+78
 ```
 
-Output 1:  
-
-```
-0  
-4    
-```
-
-Input 2:  
+Output :  
 
 ```
 1
-10 5  
-```
-
-Output 2:  
-
-```
-5  
+8
+474552
 ```
 
