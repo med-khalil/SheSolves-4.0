@@ -1,4 +1,4 @@
-# Problem A : Who is the winner?
+# Problem B : Who is the winner?
 
 ## Statement:
 
