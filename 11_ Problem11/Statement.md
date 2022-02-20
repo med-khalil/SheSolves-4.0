@@ -12,9 +12,9 @@ Your Task is to determine the number of different paths a person can take to rea
 ## Input :
 The first line contains one integer **T** (1<=T<=10^5) indicating the number of test cases. Then T test cases follow.
 
-Each line contains a test case consisting of 1 integer **n** the length of the stairway.
+Each line contains a test case consisting of one integer **n** the length of the stairway.
 
-1<=n<=10^7
+1<=n<=10^6
 
 ## Output :
 Print the different number of paths a person can take to reach the end of the stairway.
