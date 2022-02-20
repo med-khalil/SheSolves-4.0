@@ -3,7 +3,7 @@
 ## Statement:
 Rania has a lot of Rubik's cubes at home, whose side is one unit.
 
-One day she decided to go on vacation, she brings with her a suitcase that is shaped like a cube whose side is n unit(s).
+One day she decided to go on vacation, she brought with her a suitcase that is shaped like a cube whose side is n unit(s).
 
 She is so obsessed with Rubik's cubes that she decided to fill her suitcase with them.
 
