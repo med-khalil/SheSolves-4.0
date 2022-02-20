@@ -52,13 +52,13 @@ Each problem setter should include the following files in his problem folder for
 | ---- | ----------------------------------- | ---------- | ----------------- | ----------- | ------------------------------ | -------------- |
 | 1    | image classification                | Razi       |         X         |     X       |                                |                |
 | 2    | cube's volume                       | Razi       |         X         |     X       |                                |                |
-| 3    | divide by 18                        | Gharsallah |                   |             |                                |                |
-| 4    | 2*N grid path finding               | Mahfoudhi  |         X         |      X      |                                |                |
+| 3    | 2*N grid path finding               | Mahfoudhi  |         X         |      X      |                                |                |
+| 4    | divide by 18                        | Gharsallah |                   |             |                                |                |
 | 5    | Frequency Array (Easy Version)      | Azer       |         X         |     X       |                                |                |
 | 6    | valentine's day gifts               | Bechir     |                   |             |                                |                |
 | 7    | lock combination                    | Med Ali    |         X         |      X      |                                |                |
 | 8    | Akram and Addition                  | Ala        |         X         |      X      |                                |                |
-| 9    | different words same representation | Aycha      |                   |             |                                |                |
+| 9    | different words same representation | Aycha      |         X         |             |                                |                |
 | 10   | Frequency Array (Hard Version)      | Azer       |         X         |      X      |                                |                |
 | 11   | Fibonacci                           | Mahmoud    |         X         |      X      |                                |                |
 | 12   | Super Mario                         | Yessine    |         X         |      X      |                                |                |
