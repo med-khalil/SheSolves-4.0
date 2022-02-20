@@ -3,7 +3,7 @@
 ## Statement:
 Image classification can be defined as the task of categorizing images into one or multiple predefined classes. Although the task of categorizing an image is instinctive and habitual to human, it is much more challenging for an automated system to recognize and classify images.
 
-Razi is passionate about artificial intelligence, and more specifically about image classification, she implemented a solution using machine learning to classify an image
+Aicha is passionate about artificial intelligence, and more specifically about image classification, she implemented a solution using machine learning to classify an image
 
 Her data set is only composed of correct images.
 
@@ -11,7 +11,8 @@ We define a correct image as an image that contains a correct plus or a correct 
 
   - A correct plus is defined as two lines, one horizontal, one vertical, having the same size and intersecting in their middle. Their size is odd and strictly greater than one.
 
-  - A correct minus is defined a horizontal line.
+  - A correct minus is defined as a horizontal line.
+
 <pre>
 ........#.                            ..........                        ..........              
 ....######                            ..#######.                        ..#....... 
@@ -21,7 +22,7 @@ We define a correct image as an image that contains a correct plus or a correct 
 </pre>
 
 
-Razi lost the code of his image classification algorithm.
+Aicha lost the code of her image classification algorithm.
 
 Write an algorithm that classifies an image of her data set.
 
@@ -33,7 +34,7 @@ The first line contains two integers **n**, **m** (1≤n, m≤100) — where n a
 Each of the next n lines contains m characters. They describe the image. If a character on a line equals ".", then the corresponding pixel is off and if the character equals "#", then the pixel is on.
 
 ## Output :
-For each test case, output "PLUS" if the image contains a plus, "MINUS" if the image contains a minus    
+For each test case, output PLUS if the image contains a plus or MINUS if the image contains a minus    
 
 ## Example:
 Input :  
