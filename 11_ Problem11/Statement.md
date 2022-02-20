@@ -19,6 +19,10 @@ Each line contains a test case consisting of 1 integer **n** the length of the s
 ## Output :
 Print the different number of paths a person can take to reach the end of the stairway.
 
+As the result can be very high, print the result modulo 1000000007.
+
+Hint : We know that (a+b) MOD x = (a MOD x) + (b MOD x) so to avoid overflow you should apply the modulo everytime you make an operation on the result. 
+
 ## Example:
 Input 1 :  
 
