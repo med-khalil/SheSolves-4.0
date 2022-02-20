@@ -1,4 +1,4 @@
-# Problem A : Rubik's cube
+# Problem B : Rubik's cube
 
 ## Statement:
 Rania has a lot of Rubik's cubes at home, whose side is one unit.
