@@ -3,7 +3,7 @@
 ## Statement:
 Image classification can be defined as the task of categorizing images into one or multiple predefined classes. Although the task of categorizing an image is instinctive and habitual to human, it is much more challenging for an automated system to recognize and classify images.
 
-Nour is passionate about artificial intelligence, and more specifically about image classification 
+Nour is passionate about artificial intelligence, and more specifically about image classification.
 She implemented a solution using machine learning to classify mathematic signs.
 
 Her data set is **only** composed of correct images.
