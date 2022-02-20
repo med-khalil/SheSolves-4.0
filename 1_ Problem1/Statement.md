@@ -1,4 +1,4 @@
-# Problem A : Image classification
+# Problem A : Rubik's cube
 
 ## Statement:
 Image classification can be defined as the task of categorizing images into one or multiple predefined classes. Although the task of categorizing an image is instinctive and habitual to human, it is much more challenging for an automated system to recognize and classify images.
@@ -13,15 +13,12 @@ We define a correct image as an image that contains a correct plus or a correct 
 
   - A correct minus is defined a horizontal line.
 
-........#.                            ..........                        ..........              
+.....#.                         .......                     .......              
+.######                         ..#####                     ..#.... 
+.....#.  is not a correct image .......  is a correct minus .###...  is a correct plus
+.....#.                         .......                     ..#.... 
+.......                         .......                     ....... 
 
-....######                            ..#######.                        ..#....... 
-
-........#.  is not a correct image    ..........  is a correct minus    .###......  is a correct plus
-
-........#.                            ..........                        ..#....... 
-
-..........                            ..........                        .......... 
 
 
 Razi lost the code of his image classification algorithm.
