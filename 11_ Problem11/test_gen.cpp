@@ -43,10 +43,8 @@ int main() {
         freopen(fileName, "w", stdout);
 
         // ------------------------------------------ CHANGE THIS
-        // 1 <= k <= 100
-        // 1 <= s <= 100,000
-        int k = randomInt(1, 100);
-        int s = randomInt(1, 100000);
-        cout << k << ' ' << s << '\n';
+        // 1 <= n <= 1,000,000
+        int n = randomInt(1, 1000000);
+        cout << n << '\n';
     }
 }
