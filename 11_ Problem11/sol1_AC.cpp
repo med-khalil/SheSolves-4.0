@@ -4,13 +4,13 @@ using namespace std ;
 
 int main()
 {
-    int t ;
+    int t , MOD = 1e9+7 ;
     cin >> t ;
     while(t--)
     {
         int n ;
         cin >> n ;
-        int prev = 1 , ans = 1 ;
+        int prev = 1 , temp , ans = 1 ;
         if(n==1)
         {
             cout << 0 << endl ;
@@ -20,8 +20,9 @@ int main()
             n -= 2 ;
             while(n--)
             {
-                ans = prev + ans ;
-                prev = ans - prev ;
+                temp = ans ;
+                ans = (prev + ans) % MOD ;
+                prev = temp ;
             }
             cout << ans << endl ;
         }
