@@ -1,4 +1,4 @@
-# Problem A : Computer Game
+# Problem C : Computer Game
 
 ## Statement:
 
