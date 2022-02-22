@@ -2,17 +2,17 @@
 
 ## Statement:
 
-X is playing a computer game. Now she wants to complete the first level of this game.
+Omnia is playing a computer game. Now she wants to complete the first level of this game.
 
-A level is a rectangular grid of 2 rows and n columns. X controls a character, which starts in cell (1,1). To complete a level, X's character should reach cell (2,n).
+A level is a rectangular grid of 2 rows and n columns. Omnia controls a character, which starts in cell (1,1). To complete a level, Omnia's character should reach cell (2,n).
 
-X's character can move from one cell to another in one step if the cells are adjacent by side and/or corner. Formally, it is possible to move from cell (x1,y1)
+Omnia's character can move from one cell to another in one step if the cells are adjacent by side and/or corner. Formally, it is possible to move from cell (x1,y1)
 to cell (x2,y2) in one step if |x1−x2|≤1 and |y1−y2|≤1. Obviously, it is prohibited to go outside the grid.
 
-There are traps in some cells. If X's character finds himself in such a cell, he dies, and the game ends.
+There are traps in some cells. If Omnia's character finds himself in such a cell, he dies, and the game ends.
 
 
-Help X determine if it is possible to complete the level.
+Help Omnia determine if it is possible to complete the level.
 
 
 ## Input :
