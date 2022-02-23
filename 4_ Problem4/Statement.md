@@ -8,7 +8,7 @@ Given the number N (length of N < 2.10^5 ) help salwa figure out if it is possib
 
 ## Input :
 
-Each test case consists of 1 number **N**.
+Each test consists of 1 number **N**.
 
 1<length(N)<=2.10^5
 with length(N)= the number of digits of **N**
