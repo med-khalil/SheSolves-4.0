@@ -11,7 +11,7 @@ In one move, he can rotate one disk by one digit either forwards or backwards. I
 
 Since Anas is pressed for time and afraid to get caught he want to open the lock using the least amount of moves possible.
 
-Can you figure out the minimum number of moves that he need to unlock the safe?
+Can you figure out the minimum number of moves that he needs to unlock the safe?
 ## Input :
 The first line contains a single integer n (1 ≤ n ≤ 1000) —- the number of disks on the combination lock.
 The second line contains a string of n digits — the original state of the disks.
