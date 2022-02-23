@@ -6,6 +6,7 @@ Mahmoud and Hani love to play a game called stairs at the mall that consists of 
 
 Naturally, the kids were upset about this rule because it meant that their game was no longer fun. However the security guard Omar told them that they can still have fun playing their game with this new rule as there are still many different ways they can go up the stairs.
 Your Task is to determine the number of different paths a person can take to reach the end of the stairway when following the rule.
+Two paths are considered differents if there exists one step that is steped on in one path and not in the other.
 
 
 ## You will answer **T** distinct test cases each with a different value of **n** .
