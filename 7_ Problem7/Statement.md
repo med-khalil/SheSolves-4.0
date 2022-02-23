@@ -1,7 +1,7 @@
-# Problem A : Lock Combination
+# Problem G : Combination Lock
 
 ## Statement: 
-One day, Naima and Eya have come up with an idea that consists of building a combination lock that will keep their most treasured savings safe.Each time they want to store something inside the safe, they have to open the lock.
+One day, Naima and Eya have come up with an idea that consists of building a combination lock that will keep their most treasured savings safe. Each time they want to store something inside the safe, they have to open the lock.
 
 A pirate named Anas was trying to steal their treasure, and he coincidentally overheard the secret code that unlocks the combination lock.
 
