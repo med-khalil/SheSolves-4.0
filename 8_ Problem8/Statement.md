@@ -11,7 +11,7 @@ For example the "akram way" of summing 358 and 824 is:
 					------------------
 				=   	1	7	2  
 </pre>
-Given a positive integer **a**, akram wants to know how many positive integers **b** there are, such that **a + b < a** with + being akram's addition.  
+Given a positive integer **a**, akram wants to know how many positive integers **b** there are, such that **a + b <= a** with + being akram's addition.  
 Can you help him?
 
 ## Input :
@@ -22,7 +22,7 @@ Each test case consists of an integer **a**.
 1<=a<=10<sup>9</sup>
 
 ## Output :
-print **T** lines, each line contains one integer: the number of integers **b** such that **a + b < a**, the answer of each test.
+print **T** lines, each line contains one integer: the number of integers **b** such that **a + b <= a**, the answer of each test.
 
 ## Example:
 Input :  
@@ -35,6 +35,6 @@ Input :
 Output :  
 
 ```
-5
+6
 ```
-for **a = 5** there are 5 integers whose sum with **a** is smaller than **a** which are: 5, 6, 7, 8, 9 and their respective sums are 0, 1, 2, 3, 4.
+for **a = 5** there are 5 integers whose sum with **a** is smaller than **a** which are: 0, 5, 6, 7, 8, 9.
