@@ -48,7 +48,7 @@ Example for n = 4 , there are 4 stairs :
 
 1 - 2 - 3 - 4
 
-There are 3 paths to reach the end of the stairway :
+There are 3 distincts paths to reach the end of the stairway :
 
 1 -> 2 -> 3 -> 4
 
