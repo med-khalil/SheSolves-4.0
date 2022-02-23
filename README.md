@@ -53,7 +53,7 @@ Each problem setter should include the following files in his problem folder for
 | 1    | image classification                | Razi       |         X         |     X       |                                |                |
 | 2    | cube's volume                       | Razi       |         X         |     X       |                                |                |
 | 3    | 2*N grid path finding               | Mahfoudhi  |         X         |      X      |                                |                |
-| 4    | divide by 18                        | Gharsallah |                   |             |                                |                |
+| 4    | divide by 18                        | Gharsallah |         X         |      X       |                                |                |
 | 5    | Frequency Array (Easy Version)      | Azer       |         X         |     X       |                                |                |
 | 6    | valentine's day gifts               | Bechir     |         X         |      X      |              WA                |     X          |
 | 7    | lock combination                    | Med Ali    |         X         |      X      |                                |                |
