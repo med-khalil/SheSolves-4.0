@@ -21,10 +21,10 @@ The first line contains a single integer **T** (1≤T≤100) — the number of t
 The first line contains a single integer **n** (3≤n≤100) — the number of columns.
 
 The next two lines describe the level. 
-The i-th of these lines describes the i-th line of the level — the line consists of the characters '0' and '1'. 
-The character '0' corresponds to a safe cell, the character '1' corresponds to a trap cell.
+The i-th of these lines describes the i-th line of the level — the line consists of the characters '.' and '#'. 
+The character '.' corresponds to a safe cell, the character '#' corresponds to a trap cell.
 
-Additional constraint on the input: cells (1,1) and (2,n) are safe.
+Additional constraint on the input: cells (1,1) and (2,n) are always safe.
 
 ## Output :
 For each test case, output YES if it is possible to complete the level, and NO otherwise.
@@ -35,17 +35,17 @@ Input :
 ```
 4
 3
-000
-000
+...
+...
 4
-0011
-1100
+..##
+##..
 4
-0111
-1110
+.111
+111.
 6
-010101
-101010 
+.#.#.#
+#.#.#. 
 ```
 
 Output :  
