@@ -4,9 +4,9 @@
 
 
 
-You are given a list of N strings seperated by spaces. In each word, you need to replace each letter with its position in the alphabet(A:1 , B:2 and so on) in order to obtain a new string composed of digits.
+You are given a list of N words seperated by spaces. In each word, you need to replace each letter with its alphabet position(A:1 , B:2 and so on) in order to obtain a new string composed of digits.
 
-Initially, your score is 0. For each string you recieve 1 point if there exists another string in the list such that the two strings are different but give the same number representation when applying the transformation. (If you have two different strings which lead to the same number representation you recieve 1 point from the first string and 1 point from the second string).
+Initially, your score is 0. For each word you recieve 1 point if there exists another word in the list such that the two words are different but give the same number representation when applying the transformation. (If you have two different words which lead to the same number representation you recieve 1 point from the first word and 1 point from the second word).
 
 Your task is to count the score you achieved.
 
@@ -15,7 +15,7 @@ Your task is to count the score you achieved.
 
 ## Input :
 On the first line, you’ll read the number of tests T then you’ll proceed to read T tests (All tests are independent of one another)
-For each test, you’ll read a number N and then N strings separated with only one space.
+For each test, you’ll read a number N and then N words separated with only one space.
 
 
 
