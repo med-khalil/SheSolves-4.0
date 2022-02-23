@@ -1,7 +1,7 @@
 # Problem F : Valentine's day
 
 ## Statement:
-Sara is cute. She receives a lot of gifts on valentine's day. But Sara is very materialistic and will open a gift  
+Sara is cute. She receives a lot of gifts on valentine's day. But Sara is very materialistic and will only open a gift  
 if its price is strictly higher than the last opened gift. **Sara will always open the first gift**.
 
 Given the prices of the gifts return the number of opened gifts.
