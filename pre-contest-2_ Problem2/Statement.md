@@ -1,8 +1,8 @@
-# Problem A : middle number 
+# Problem A : Median number 
 
 ## Statement:
 
-Given three number: a,b,c, your task is to order them by value and print their median.      
+Given three number: a,b,c, your task is to order them by value and print their median(number situated in the middle).      
 
 You will answer **T** distinct test cases: each with different values of **a**, **b** and **c**.
 
