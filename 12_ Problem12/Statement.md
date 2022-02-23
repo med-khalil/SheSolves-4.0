@@ -22,9 +22,9 @@ Yessine is curious to know how many seconds it will take for the platform to be 
 ## Input :
 
 The first line contains one integer **T** (1<=T<=10^4) indicating the number of test cases. \
-The next **T** lines contain the description of the test cases, two lines per a test case. \
-In the first line you are given one integer **n**  (1 <= n <= 10^5) : the length of the string. \
-The second line contains the string **s** consisting of **n** characters.
+The next **T** lines contain the description of the test cases, two lines per test case. \
+In the first line you are given one integer **n**  (1 <= n <= 10^5) : the length of the platform. \
+The second line contains a string **s** consisting of **n** characters representing the n squares forming the platform.
 
 It is guaranteed that the sum of **n** over all test cases doesn't exceed 10^5
 
