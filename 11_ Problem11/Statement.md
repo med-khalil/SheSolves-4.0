@@ -3,6 +3,7 @@
 ## Statement:
 
 Mahmoud and Hani love to play a game called stairs at the mall that consists of going up a stairway composed of **n** steps, starting at the first step and going as fast as they can to determine who reaches the end faster. The **n** th step is considered the end of the stairway . However, after noticing their game, the mall introduced a new rule which said that you can't jump more than one step at a time. In other words, when standing on the ith step you can only go to the **i+1** th or the **i+2** th step.
+
 Naturally, the kids were upset about this rule because it meant that their game was no longer fun. However the security guard Omar told them that they can still have fun playing their game with this new rule as there are still many different ways they can go up the stairs.
 Your Task is to determine the number of different paths a person can take to reach the end of the stairway when following the rule.
 
