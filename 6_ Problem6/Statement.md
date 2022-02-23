@@ -1,14 +1,14 @@
-# Problem A : insert Title
+# Problem F : Valentine's day
 
 ## Statement:
 Sara is cute. She receives a lot of gifts on valentine's day. But Sara is very materialistic and will open a gift  
 if its price is strictly higher than the last opened gift. **Sara will always open the first gift**.
 
-given the prices of the gifts return the number of opened gifts.
+Given the prices of the gifts return the number of opened gifts.
 
 ## Input :
 Each test case consists of 1 integer **n**(1<=n<=10^5) : the total number of gifts.  
-followed by **n** integers **bi** (1<=bi<=1000): the prices of the gifts
+followed by **n** integers **pi** (1<=pi<=1000): the price of the i-th gift.
 
 ## Output :
 output the number of opened gifts
