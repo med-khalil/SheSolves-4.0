@@ -6,7 +6,7 @@ Yessine has just started playing Super Mario and he's stuck on a hard level.
 
 In this level, Mario comes across a platform filled with weird monsters called Goombas. He must then wait for them to die in order to advance to the next level. Goombas are characters that follow these rules : 
 
-* Each Goomba walks in one direction (right / left).
+* Each Goomba walks in one direction (from left to right or from right to left).
 * All Goombas will advance with a speed of 1 square per second.
 * When two Goombas bump into each other, they switch directions immediately.
 * A Goomba dies when he exceeds one of the platform's limits.
