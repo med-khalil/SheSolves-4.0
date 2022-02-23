@@ -19,9 +19,12 @@ Print either "YES" or "NO" , whether it is possible to split the rocks into 18 p
 ## Example:
 Input 1 :  
 18
+
 Output 1:  
 YES
+
 Input 2:  
 35
+
 Output 2:  
 NO
