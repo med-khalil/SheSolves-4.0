@@ -16,6 +16,7 @@ Your task is to count the score you achieved.
 ## Input :
 On the first line, you’ll read the number of tests T then you’ll proceed to read T tests (All tests are independent of one another)
 For each test, you’ll read a number N (1<=N<=10^3) and then N words separated with only one space.
+
 It is guaranteed that the sum of N over all test cases doesn't exceed 10^3 and that each word will be composed of at most 8 characters.
 
 ## Output :
