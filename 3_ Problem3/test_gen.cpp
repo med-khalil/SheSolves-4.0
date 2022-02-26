@@ -45,8 +45,30 @@ int main() {
         // ------------------------------------------ CHANGE THIS
         // 1 <= k <= 100
         // 1 <= s <= 100,000
-        int k = randomInt(1, 100);
-        int s = randomInt(1, 100000);
-        cout << k << ' ' << s << '\n';
+        int t = randomInt(1, 100);
+        cout << t << '\n';
+        while (t--) {
+            int n = randomInt(3, 100);
+            cout << n << '\n';
+            string ret;
+            for (int r = 1; r <= 2; r++) {
+                for (int c = 1; c <= n; c++) {
+                    if (r == 1 && c == 1)
+                        ret += '.';
+                    else if (r == 2 && c == n)
+                        ret += '.';
+                    else {
+                        int rand_temp = randomInt(1, 5);
+                        if (rand_temp == 1) {
+                            ret += '#';
+                        } else {
+                            ret += '.';
+                        }
+                    }
+                }
+                ret += '\n';
+            }
+            cout << ret;
+        }
     }
 }
