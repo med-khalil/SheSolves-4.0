@@ -45,8 +45,13 @@ int main() {
         // ------------------------------------------ CHANGE THIS
         // 1 <= k <= 100
         // 1 <= s <= 100,000
-        int k = randomInt(1, 100);
-        int s = randomInt(1, 100000);
-        cout << k << ' ' << s << '\n';
+         int t = randomInt(1, 100);
+         cout << t << '\n';
+         for (int i = 0; i < t; i++)
+         {
+           int sz = randomInt(1, 100000);
+           string s = randomString(sz, 'a', 'z');
+           cout << sz << '\n' << s <<'\n';
+         }
     }
 }
