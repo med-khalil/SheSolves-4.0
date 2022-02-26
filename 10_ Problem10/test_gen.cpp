@@ -49,7 +49,7 @@ int main() {
         cout << t << '\n';
         for (int i = 0; i < t; i++)
         {
-           int sz = randomInt(1, 100000);
+           int sz = randomInt(1, 10000);
            string s = randomString(sz, 'a', 'z');
            cout << sz << '\n' << s <<'\n';
         }
