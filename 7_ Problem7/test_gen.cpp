@@ -35,7 +35,7 @@ int main() {
         char *testNumberStr = new char[testWidth + 1];
         sprintf(testNumberStr, "%d", i);
         testNumber += testNumberStr;
-        ss << "test" << testNumber << ".in";
+        ss << "tests/test" << testNumber << ".in";
         delete[] testNumberStr;
 
         char fileName[20];
@@ -46,8 +46,8 @@ int main() {
         // 1 <= t <= 1000
         // 1 <= a,b,c <= 10,000,000
         int n = randomInt(1, 1000);
-        string s1 = randomString(n, 0, 9);
-        string s2 = randomString(n, 0, 9);
+        string s1 = randomString(n, '0', '9');
+        string s2 = randomString(n, '0', '9');
         cout << n << "\n" << s1 << "\n" << s2;
     }
 }
