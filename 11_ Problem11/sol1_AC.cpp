@@ -10,7 +10,7 @@ int main()
     {
         int n ;
         cin >> n ;
-        int prev = 1 , temp , ans = 1 ;
+        long long int prev = 1 , temp , ans = 1 ;
         if(n==1)
         {
             cout << 0 << endl ;

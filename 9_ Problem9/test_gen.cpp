@@ -8,7 +8,14 @@ int randomInt(int l, int r) { return uniform_int_distribution<int>(l, r)(rng); }
 string randomString(int n, char l, char r) {
     string res;
     for (int i = 1; i <= n; ++i){
-        res += char(randomInt(l,r));
+        char tmp;
+        for(int j=0 ; j<=12; j++){
+            tmp=randomInt(l,r);
+            if(tmp=='A'||tmp=='B'){
+                break;
+            }
+        }
+        res += tmp;
         assert(*--res.end()>='A'&&*--res.end()<='Z');
     }
     
@@ -27,13 +34,10 @@ int digitsNbr(int x) {
     return ret;
 }
 void gen_input(){
-    int t=randomInt(1,10);
+    int t=randomInt(1,1);
     cout<<t<<'\n';
-    int ncount=1000;
     for(int i=0;i<t;i++){
-        
-        int n=randomInt(1,ncount);
-        ncount-=n;
+        int n=randomInt(1,100);
         cout<<n<<'\n';
         string s[n];
 
@@ -48,7 +52,7 @@ void gen_input(){
 int main() {
     const int tests = 30;
     const int width = digitsNbr(tests);
-    for (int i = 3; i <= tests; ++i) {
+    for (int i = 20; i <= tests; ++i) {
         stringstream ss;
         const int testWidth = digitsNbr(i);
         string testNumber(width - testWidth, '0');
