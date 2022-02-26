@@ -45,8 +45,13 @@ int main() {
         // ------------------------------------------ CHANGE THIS
         // 1 <= k <= 100
         // 1 <= s <= 100,000
-        int k = randomInt(1, 100);
-        int s = randomInt(1, 100000);
-        cout << k << ' ' << s << '\n';
+        const int MAX_TEST = (int)1e5;
+        const int MAX = (int)1e9;
+        int t = randomInt(1, MAX_TEST);
+        cout << t << '\n';
+        while (t--) {
+            int a = randomInt(1, MAX);
+            cout << a << '\n';
+        }
     }
 }

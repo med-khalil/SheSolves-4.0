@@ -10,7 +10,7 @@ int main() {
     while (t--) {
         int a;
         cin >> a;
-        cout << a << nl;
+        cout << a + 1 << nl;
     }
     return 0;
 }
