@@ -29,10 +29,10 @@ Input 2:
 Output 2:  
 NO
 
-Input 2:  
+Input 3:  
 10000000000000000000000000000000001
 
-Output 2:  
+Output 3:  
 NO
 
 note that N can be too large to be treated as int or long long type
