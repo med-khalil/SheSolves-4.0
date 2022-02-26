@@ -26,16 +26,16 @@ int digitsNbr(int x) {
 }
 
 int main() {
-    const int tests = 100;
+    const int tests = 40;
     const int width = digitsNbr(tests);
-    for (int i = 1; i <= tests; ++i) {
+    for (int i = 4; i <=4+tests; ++i) {
         stringstream ss;
         const int testWidth = digitsNbr(i);
         string testNumber(width - testWidth, '0');
         char *testNumberStr = new char[testWidth + 1];
         sprintf(testNumberStr, "%d", i);
         testNumber += testNumberStr;
-        ss << "tests/test" << testNumber << ".in";
+        ss << "test" << testNumber << ".in";
         delete[] testNumberStr;
 
         char fileName[20];
@@ -43,10 +43,14 @@ int main() {
         freopen(fileName, "w", stdout);
 
         // ------------------------------------------ CHANGE THIS
-        // 1 <= k <= 100
-        // 1 <= s <= 100,000
-        int k = randomInt(1, 100);
-        int s = randomInt(1, 100000);
-        cout << k << ' ' << s << '\n';
-    }
+        // 1 <= t <= 4000
+        // 1 <= a,b,c <= 10,000,000
+        int t = randomInt(1, 4000);
+        int a;
+        for(int i=0;i<t;i++){
+            a = randomInt(1, 10'000'000);
+            cout << a ;
+        }
+    
+}
 }
