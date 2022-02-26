@@ -58,7 +58,7 @@ Each problem setter should include the following files in his problem folder for
 | 6    | valentine's day gifts               | Bechir     |         X         |      X      |              WA                |     X          |
 | 7    | lock combination                    | Med Ali    |         X         |      X      |                                |                |
 | 8    | Akram and Addition                  | Ala        |         X         |      X      |                                |                |
-| 9    | different words same representation | Aycha      |         X         |             |                                |                |
+| 9    | different words same representation | Aycha      |         X         |      X      |           no TLE sol           |       X        |
 | 10   | Frequency Array (Hard Version)      | Azer       |         X         |      X      |                                |                |
 | 11   | Fibonacci                           | Mahmoud    |         X         |      X      |                                |                |
 | 12   | Super Mario                         | Yessine    |         X         |      X      |                                |                |
