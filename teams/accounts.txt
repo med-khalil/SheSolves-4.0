@@ -1,0 +1,30 @@
+site	account	displayname	password	permdisplay	permlogin
+1	team1	Ro93a	QFjSUb	true	true
+1	team2	Yasmine/Emna	iHJtyF	true	true
+1	team3	Hack Overflow	oUOxZJ	true	true
+1	team4	3w	gcpIgK	true	true
+1	team5	WforWinners	UQoLGk	true	true
+1	team6	She-Unit	TtHTad	true	true
+1	team7	Butterflies 🦋	wtFFLz	true	true
+1	team8	Da vinci Codec	amFKFj	true	true
+1	team9	Enstacode	psWsUv	true	true
+1	team10	fssfss	oGHKlr	true	true
+1	team11	SheDissolves	msMuvW	true	true
+1	team12	Challengers	KuduNq	true	true
+1	team13	Phoenix	dFvQzn	true	true
+1	team14	PPGirls	gJTmAp	true	true
+1	team15	TWIT	PhVnOz	true	true
+1	team16	stars	NgWDdS	true	true
+1	team17	In-Cntrl	QwAWCk	true	true
+1	team18	assouma _is_thebest	aYPDhT	true	true
+1	team19	Luna	lGezdH	true	true
+1	team20	Zeus	mZBjdO	true	true
+1	team21	im4	UtUvxs	true	true
+1	team22	Sandra/Sumaya	sjGBnF	true	true
+1	team23	Powerpuff Gils	mkrgTa	true	true
+1	team24	KY Team	FGaZfc	true	true
+1	team25	AceCoders	MTgtrO	true	true
+1	team26	EFC	vgysRE	true	true
+1	team27	YKL Team	LSEZzd	true	true
+1	team28	ocean's 3	yzsYzs	true	true
+1	team29	Bdoura'nos	lwcDEs	true	true
